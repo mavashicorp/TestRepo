@@ -1,0 +1,6 @@
+@testRepo_HostAddress = http://localhost:5141
+
+GET {{testRepo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
